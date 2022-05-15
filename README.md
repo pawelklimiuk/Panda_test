@@ -15,3 +15,7 @@ By selecting different branches you can get the sample code that you should have
 | main | CI/CD 1 | Basic application version |
 | dockerfile | Docker 2 | Added docker container build files |
 | tests | Testy | Added unit tests and requirements |
+<<<<<<< HEAD
+=======
+| jenkinsfile | CI/CD 5 | Added Jenkinsfile, sonarqube project properties|
+>>>>>>> 5dd562ce169a54ff1cd579607440201ba616ae2f
